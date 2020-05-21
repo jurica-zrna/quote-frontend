@@ -5,8 +5,8 @@ metadata:
     architecture: x86_64
     authoritative-source-url: registry.access.redhat.com
     build-date: 2020-01-30T08:16:17.662981
-    commit.image.appsody.dev/date: Wed May 20 16:42:20 2020 +0200
-    commit.image.appsody.dev/message: version change
+    commit.image.appsody.dev/date: Thu May 21 09:44:54 2020 +0200
+    commit.image.appsody.dev/message: wtf
     commit.stack.appsody.dev/author: Steve Groeger <groeges@uk.ibm.com>
     commit.stack.appsody.dev/committer: GitHub <noreply@github.com>
     commit.stack.appsody.dev/contextDir: /incubator/nodejs-express
@@ -16,9 +16,9 @@ metadata:
       Express collection
     distribution-scope: public
     help: For more information visit https://github.com/sclorg/s2i-nodejs-container
-    image.opencontainers.org/created: "2020-05-20T16:56:43+02:00"
+    image.opencontainers.org/created: "2020-05-21T09:57:29+02:00"
     image.opencontainers.org/documentation: https://github.com/jurica-zrna/quote-frontend
-    image.opencontainers.org/revision: 79a0c494a5d1ba44136517c07c8189afd77eabbf-modified
+    image.opencontainers.org/revision: 9ca98251db2ea83e6f223d6cd0fbebf7a4764560-modified
     image.opencontainers.org/source: https://github.com/jurica-zrna/quote-frontend/tree/master
     image.opencontainers.org/url: https://github.com/jurica-zrna/quote-frontend
     k8s.io/description: Node.js 10 available as container is a base platform for building
